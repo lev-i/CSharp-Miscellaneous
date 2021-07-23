@@ -1,4 +1,2 @@
-# Miscellaneous
-Small stuff that was either for fun or for practice
-
-It's all pretty basic/simplistic, but it's nice to have it to look back on.
+# Miscellaneous C# 
+Small C# programs that were either for fun or for practice
